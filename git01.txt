@@ -246,3 +246,14 @@ github 계정을 내 컴퓨터 자체에 연결
 13) git push origin main
     - 로컬 저장소의 커밋 내용을 원격 저장소에 전송
 
+
+
+
+<개인 자료 수정 후 업데이트>
+
+6) -> 7) -> 13) 번 과정 진행하면 됨
+ex) git add . -> git commit -m '첫번째 내용 커밋' -> git push origin main
+
+
+<협업 시>
+6) -> 7) -> 12) -> 13)

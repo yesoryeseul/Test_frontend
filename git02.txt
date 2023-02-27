@@ -1,0 +1,202 @@
+
+02.26 수업 진행 내용
+
+
+1. git flow - branch 설명
+2. 오거나이제이션 (organization) 만들기
+    <진행 로직>
+    branch -> clone -> fork -> merge -> pr -> issue
+3. 호스팅 [dothome, FTP, github]
+
+
+    *branch
+
+        repository 생성
+        *분기*를 나눌 수 있다.(분기점)
+
+        main(master) : default branch
+
+        dev(release, test, v0.1-이름은 언제든 달라질 수 있음) : development branch
+
+        ---------------------------------------- 항시
+
+        feat (기능개발)
+
+        fix
+
+        style...
+
+        ex) feat/login
+            style/event-screen
+            hotfix/sns-login
+
+        ---------------------------------------- 일시적 -> 삭제(완료 시)
+
+        
+    * Sementic Commit Messages
+
+        - 참고 링크
+         https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
+        - commit convention (구성원 모두가 맞출 것!)
+
+        feat: 새로운 기능
+        fix: 버그 수정
+        style: 레이아웃, 코드 스타일 수정
+        refactor: 기능 개선
+        test: 테스트 코드
+        chore: 로직 외 코드 수정
+
+        ex)
+            🤔 feat: 로그인 로직을 추가하였습니다.
+            style: 이벤트 스크린의 배너를 추가하였습니다.
+
+        ----------------------------------------
+
+    * Flow
+
+        1. repository 생성
+        2. 로컬 저장소 (.git) 과 원격저장소(github) 연결
+        3. init 파일을 main에 push (프로젝트 폴더 구조)
+        4. 분기점(branch) 생성
+
+            git branch
+                - 현재 내 로컬 환경(내컴퓨터)에 만들어진 branch 목록 확인
+            git branch 브랜치명
+                - 해당 브랜치명 브랜치가 내 로컬 환경에 생성
+
+            git branch -D 브랜치명
+                - 해당 브랜치명의 브랜치 로컬 환경(저장소)에서 삭제
+
+            git checkout 브랜치명
+                - 현재 내 로컬 환경에서 바라보고 있는 브랜치 변경
+
+            git checkout -b 브랜치명    
+                - 브랜치 생성과 이동을 한번에 해주는 명령어
+                - 단, 해당 브랜치는 내 로컬 환경 브랜치 목록에 존재해서는 안 된다.
+
+        5. 개발..ing, add - commit - (pull-다른 사람 브랜치 들어간 경우) - push
+            - git push origin 브랜치명 (원격 저장소에서도 분기가 생김)
+            - git pull 원격저장소명 branch --rebase
+
+        6. main (init)
+           new branch (dev)
+                - 개발 종료 후 main branch 합치는 과정
+                - git merge 합칠브랜치명
+                - 개발 중에도 버전관리는 이뤄져야 한다
+
+            ex) feat/login - 기능 개발 완료
+                git checkout main - git pull main
+                git checkout feat/login
+                git merge main (main과 new branch가 합쳐짐)
+                conflict 발생 - reslove (문제 해결)
+
+                현재 수정 사항 있는 경우 -> 다른 브랜치로 이동 불가
+                -> stash 로 해결
+
+                git stash (스테이징 된 파일을 잠깐 저장)
+                git stash pop (가장 최근 스테이징 내역을 다시 빼온다)
+
+                ex)
+                    git checkout main(수정사항 => x)
+                    git stash
+                    git checkout main (이동 o)
+                    git pull main (o)
+                    git checkout 수정된 브랜치
+                    git stash pop (수정사항이 있어도 브랜치 이동 가능)
+
+                코드 이상 없는지 test 완료
+                (main 브랜치 merge -> 충돌 해결 -> 테스트 끝)
+
+                git add . 
+                git commit
+                git push origin main => 실행하면 x (리뷰 후 진행되어야 함)
+                - 바로 main에 푸쉬하는 것이 아니라
+                
+                - 내 기존 브랜치에 푸쉬 후 허락 
+                git push origin 브랜치
+                (원격 저장소에도 내 branch가 생김)
+
+                    ex) pull request (pr) -> code review -> 확인
+                        ------------> 목적지 설정(main, v0.1)
+                
+        main(원격저장소) ---> main + dev (합치기)
+
+                git checkout main
+                git pull origin main
+
+                - 원격 저장소와 내 로컬 환경 main 브랜치의 동기화
+                - 자동으로 되어있을 수 있음
+
+
+        ----------------------------------------
+
+    오거나이제이션
+    1) git clone 레퍼지토리 주소
+        - remote 까지 자동 실행됨
+    2) git checkout -b feat/yeseul
+        - branch 만들고 이동까지, 각자 만들기
+    3) git branch로 확인
+
+    4) git add . 
+    5) git commit -m 'feat: yeseul 기능 추가하였습니다' -m 'index.html 파일에 yeseul 기능을 추가하였습니다'
+
+    6) git push origin feat/yeseul
+
+    7) index.html 내용 수정 후 git checkout main -> 오류
+        - git stash - git checkout main - git checkout feat/yeseul
+        - 깃헙에서 compare & pull request 클릭 or pull requests에서 직접 생성
+
+        - feat/yeseul와 main 을 merge
+
+
+<진행 순서 정리>
+새폴더 내꺼 생성
+
+git clone https://github.com/front-end-weekend/project_weekend.git
+
+git checkout -b feat/yeseul
+
+git branch (확인하는 과정, 필수 x)
+
+git add . 
+
+(commit,push하기 전에 git pull origin branch명)
+
+git commit -m 'feat: yeseul 기능 추가하였습니다'
+
+git push origin feat/yeseul
+- 깃허브에서 확인
+
+(git checkout main
+
+git stash
+
+git checkout main
+
+git pull main
+
+git checkout feat/yeseul)
+
+이상태에서 깃허브 레파지토리 브라우저 이동 Compare & pull request 클릭 (pr 날리기) or pull requests 탭에서 New pull request
+
+main branch에 합치기
+
+합친 후 변경 내용 가져오기
+
+git checkout main
+git pull origin main
+git checkout feat/yeseul
+git merge main
+git add .
+git commit -m 'feat: yeseul 기능 추가하였습니다' or 소스 제어에서 커밋 버튼 누르기
+
+git push origin feat/yeseul
+
+
+
+
+
+
+
+
