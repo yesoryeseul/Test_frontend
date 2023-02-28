@@ -54,7 +54,7 @@
 ---------------------------
 ### 코드 블럭
 
-##### <pre><code>{code}</code></pre> 이용
+##### pre 와 code tag 이용
 
 <pre>
 <code>
@@ -75,4 +75,15 @@ public class BootSpringBootApplication {
     System.out.println("Hello, Honeymon");
   }
 }
+```
+
+##### 깃헙에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능
+
+```javascript
+ var yeseul = {
+  body: {
+    height: 167.6,
+    weight: 49.5
+  }
+};
 ```
