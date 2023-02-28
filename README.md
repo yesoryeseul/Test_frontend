@@ -54,9 +54,10 @@
 ---------------------------
 ### 코드 블럭
 
+##### <pre><code>{code}</code></pre> 이용
+
 <pre>
 <code>
-// <pre><code>{code}</code></pre> 사용
  public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
@@ -66,3 +67,12 @@
 </code>
 </pre>
 
+##### 블럭코드("```") 을 이용
+
+```
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
