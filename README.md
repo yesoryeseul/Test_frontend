@@ -141,4 +141,4 @@ Link: [김예슬의 깃허브][yeseul_github]
 ```
 
 * 외부링크: <https://www.naver.com/>
-* 이메일링크 <yesoryeseul07@gmail.com>
+* 이메일링크: <yesoryeseul07@gmail.com>
