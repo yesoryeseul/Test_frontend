@@ -120,7 +120,8 @@ public class BootSpringBootApplication {
 
 - 참조링크
 
-Link: [김예슬의 깃허브][https://github.com/yesoryeseul]
+Link: [김예슬의 깃허브][yeseul]
+[yeseul]:https://github.com/yesoryeseul
 
 - 외부링크
 ###### [김예슬의 깃허브](https://github.com/yesoryeseul)
