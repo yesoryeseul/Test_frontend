@@ -56,6 +56,7 @@
 
 <pre>
 <code>
+/* <pre><code>{code}</code></pre> 사용*/
  public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
