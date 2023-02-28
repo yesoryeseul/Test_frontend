@@ -161,3 +161,7 @@ Link: [김예슬의 깃허브][yeseul_github]
 -----
 
 ### 이미지
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
