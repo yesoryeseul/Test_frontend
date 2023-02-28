@@ -122,8 +122,6 @@ Link: [김예슬의 깃허브][yeseul_github]
 
 [yeseul_github]: https://github.com/yesoryeseul
 
-- - -
-
 - 외부링크
 ```
 사용문법: [Title](link)
@@ -142,3 +140,20 @@ Link: [김예슬의 깃허브][yeseul_github]
 
 * 외부링크: <https://www.naver.com/>
 * 이메일링크: <yesoryeseul07@gmail.com>
+
+- - -
+
+### 강조
+```
+ *single asterisks*
+ _single underscores_
+ **double asterisks**
+ __double underscores__
+ ~~cancelline~~
+```
+
+- *single asterisks*
+- _single underscores_
+- **double asterisks**
+- __double underscores__
+- ~~cancelline~~
