@@ -54,7 +54,7 @@
 ---------------------------
 ### 코드 블럭
 
-##### pre 와 code tag 이용
+#####  ```<pre><code>{code}</code></pre>``` 이용
 
 <pre>
 <code>
@@ -67,7 +67,7 @@
 </code>
 </pre>
 
-##### 블럭코드("```") 을 이용
+##### 블럭코드("\```") 을 이용
 
 ```
 public class BootSpringBootApplication {
@@ -77,7 +77,7 @@ public class BootSpringBootApplication {
 }
 ```
 
-##### 깃헙에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능
+##### 깃헙에서는 코드블럭코드("\```") 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능
 
 ```javascript
  var yeseul = {
@@ -90,7 +90,7 @@ public class BootSpringBootApplication {
 
 ***
 
-### 수평선<hr/>
+### 수평선 ```<hr/>```
 ```
  * * *
 
