@@ -152,8 +152,8 @@ Link: [김예슬의 깃허브][yeseul_github]
  ~~cancelline~~
 ```
 
-- *single asterisks*
-- _single underscores_
-- **double asterisks**
-- __double underscores__
-- ~~cancelline~~
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
