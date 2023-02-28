@@ -121,7 +121,7 @@ public class BootSpringBootApplication {
 - 참조링크
 
 Link: [yeseullink][yeseul]
-[yeseul]: https://github.com/yesoryeseul
+[yeseul]: https://github.com/yesoryeseul "Go yeseul"
 
 Link: [Google][googlelink]
 
