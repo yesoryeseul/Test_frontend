@@ -177,4 +177,4 @@ Link: [김예슬의 깃허브][yeseul_github]
 ```
 
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Rubberduck"></img><br/>
-<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt=Rubberduck"></img>
+<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="Rubberduck"></img>
