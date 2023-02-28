@@ -124,10 +124,10 @@ Link: [김예슬의 깃허브][yeseul_github]
 
 [yeseul_github]: https://github.com/yesoryeseul
 
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
-
 - 외부링크
+```
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+```
+
 ###### [김예슬의 깃허브](https://github.com/yesoryeseul)
