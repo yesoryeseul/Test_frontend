@@ -19,6 +19,9 @@
 > > second BlockQuote
 > > > third BlockQuote
 
+
+#### 순서있는 목록(번호)
+##### - 어떤 번호를 입력해도 내림차순 정의
 1. first
 2. second
 3. third
