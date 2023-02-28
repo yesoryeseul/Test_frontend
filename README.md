@@ -118,8 +118,6 @@ public class BootSpringBootApplication {
  [googlelink]: https://google.com "Go google"
 ```
 
-- 참조링크
-
 Link: [김예슬의 깃허브][yeseul_github]
 
 [yeseul_github]: https://github.com/yesoryeseul
