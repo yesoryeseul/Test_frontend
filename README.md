@@ -178,3 +178,17 @@ Link: [김예슬의 깃허브][yeseul_github]
 
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Rubberduck"></img><br/>
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="Rubberduck"></img>
+
+
+-----
+
+### 중바꿈
+3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
+
+```
+* 줄바꿈을 하기 위해서는 문장 마지막에서 3칸이상 띄어쓰기해야 한다.
+이렇게
+
+* 줄바꿈을 하기 위해서는 문장 마지막에서 3칸이상 띄어쓰기해야 한다.___\\ 띄어쓰기
+이렇게
+```
