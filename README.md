@@ -120,9 +120,9 @@ public class BootSpringBootApplication {
 
 - 참조링크
 
-Link: [Naver][naverlink]
+Link: [김예슬의 깃허브][yeseul_github]
 
-[naverlink]: https://www.naver.com "Go naver"
+[yeseul_github]: https://github.com/yesoryeseul
 
 Link: [Google][googlelink]
 
