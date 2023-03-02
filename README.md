@@ -1,3 +1,41 @@
+![main_banner](https://user-images.githubusercontent.com/115636461/222115571-ff9b098b-13c9-45e1-831e-2577512a01fc.png)
+<div align ='center'>
+
+
+<h1>🌌 About Me 🌌</h1>
+변함없이 노력하는게 목표인 주니어 개발자입니다!
+
+<h1>🌠Skills</h1>
+
+<div>
+
+  ### 📋 Languages
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+  ### 💾 Databases
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+  ### 📚 Frameworks, Platforms and Libraries
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+
+  ### 💻 IDEs/Editors
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+  <br>
+  
+  ### 😀😀😀
+  [![Jihyeong00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihyeong00)]()
+
+</div>
+
+</div>
+
+
 # Test_frontend
 프론트엔드 테스트용 레퍼지토리입니다
 
