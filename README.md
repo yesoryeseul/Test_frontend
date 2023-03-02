@@ -4,6 +4,8 @@
 <p>
   <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
+
+<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
 # Test_frontend
 프론트엔드 테스트용 레퍼지토리입니다
 
