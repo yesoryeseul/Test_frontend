@@ -2,7 +2,7 @@
 <a href="https://velog.io/@jangdm37"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
 # Test_frontend
 프론트엔드 테스트용 레퍼지토리입니다
