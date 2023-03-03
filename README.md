@@ -6,7 +6,7 @@
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)]
-[!(Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul"/)]
+[![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)]
 
 
 <a href="https://www.instagram.com/yes_or_yeseul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul"/></a>
