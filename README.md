@@ -3,11 +3,13 @@
 [![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/yesoryeseul)
 [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)](https://www.instagram.com/yes_or_yeseul)
 <a href="https://geode-babcat-656.notion.site/Yeseul-Blog-de0174d5454f4e3a995edef497344962/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962"/></a>
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com)
+
 
 
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962/)](https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com)](mailto:yesoryeseul@gmail.com)
 
 
 
