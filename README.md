@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
 
-<a href="https://www.instagram.com/hongssup/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+<a href="https://www.instagram.com/yes_or_yeseul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul"/></a>
 
 
 # Test_frontend
