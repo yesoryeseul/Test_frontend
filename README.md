@@ -12,7 +12,7 @@
 
 
 
-![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962/)](https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962)
 
 
 
