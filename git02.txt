@@ -135,7 +135,7 @@
     1) git clone 레퍼지토리 주소
         - remote 까지 자동 실행됨
     2) git checkout -b feat/yeseul
-        - branch 만들고 이동까지, 각자 만들기
+        - branch 만들고 이동까지, 각자 만들기 (git checkout 브랜치명 : 브랜치만 이동)
     3) git branch로 확인
 
     4) git add . 
@@ -184,8 +184,10 @@ main branch에 합치기
 
 합친 후 변경 내용 가져오기
 
+<원격 저장소와 내 로컬 환경 main 브랜치의 동기화>
 git checkout main
 git pull origin main
+
 git checkout feat/yeseul
 git merge main
 git add .
