@@ -8,8 +8,9 @@
 ![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)
 ![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962/)
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com)
 
-Notion 000000
+#EA4335
 
 
 <a href="https://www.instagram.com/yes_or_yeseul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul"/></a>
