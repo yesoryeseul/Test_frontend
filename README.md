@@ -1,11 +1,25 @@
-[![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/hidongmin37) <a href="https://blog.naver.com/jangdm37"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jangdm37@gmail.com)[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zuzu_zzing/)](https://www.instagram.com/hi_dongmin__37/)
-<a href="https://velog.io/@jangdm37"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+### social
 
-<p>
-  <img src="https://img.shields.io/badge/Instagram-E4405f?style=flat-square&logo=Instagram&logoColor=white"/>
-</p>
+[![Github Badge](https://img.shields.io/badge/-Github-24292F?style=flat&logo=Github&logoColor=white&link=https://github.com/yesoryeseul/)](https://github.com/yesoryeseul)
+[![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul/)](https://www.instagram.com/yes_or_yeseul)
+<a href="https://geode-babcat-656.notion.site/Yeseul-Blog-de0174d5454f4e3a995edef497344962/"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962"/></a>
+<a href="mailto:yesoryeseul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com"/></a>
 
-<a href="https://www.instagram.com/yes_or_yeseul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yes_or_yeseul"/></a>
+
+
+
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962/)](https://www.notion.so/Yeseul-Blog-de0174d5454f4e3a995edef497344962)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:yesoryeseul@gmail.com)](mailto:yesoryeseul@gmail.com)
+
+
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+
 
 
 # Test_frontend
