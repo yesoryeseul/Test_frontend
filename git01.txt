@@ -203,6 +203,7 @@ ex) D:\20230114_front_kys\GIT 폴더 삭제시
 
 
 powershell에서 깃허브 연결 과정
+** 폴더 경로 맞는지 먼저 확인 cd 명령어로 이동
 
 1) git init
     - 로컬 저장소 생성
